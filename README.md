@@ -1,4 +1,4 @@
-#Gifer App - React
+# Gifer App - React
 
 Gif Searcher App developed with ReactJS
 
